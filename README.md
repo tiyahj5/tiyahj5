@@ -2,7 +2,7 @@
 
 # 👋 Tiyah Johnson!
 
-I’m a Computer Science graduate student at Alabama A&M University, combining my background in Biology with my passion for software engineering and data analytics to solve real-world problems. I build innovative projects from planning to execution, such as bioinformatic pipelines and machine learning models, while continually expanding my technical skills in Python, C++, and Power BI. I enjoy learning new tools, staying active, and working on collaborative, data-driven projects.
+I’m a Computer Science graduate from Alabama A&M University, combining my background in Biology with a passion in data engineering to solve real-world problems. I aim to continue expanding my technical skills in Python, and AWS. I enjoy learning new tools, staying active, and working on collaborative, data-driven projects.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiyah-johnson-11bb36267/) 
